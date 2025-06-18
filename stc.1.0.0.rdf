@@ -18,6 +18,8 @@
         <dc:title xml:lang="en">stc - The Software Testing Concepts Ontology</dc:title>
         <dcterms:bibliographicCitation xml:lang="en">Schieferdecker, I.K.: &quot;stc: The software testing concepts ontology&quot;, 2025, http://purl.org/stc</dcterms:bibliographicCitation>
         <dcterms:license>http://creativecommons.org/licenses/by/4.0/legalcode.en</dcterms:license>
+		<dcterms:description xml:lang="en"> The Software Testing Concepts (stc) Ontology provides a formal, structured vocabulary for the domain of software testing. It is based on the ISTQB glossary, the SEVOCAB, and standard
+  software testing principles, designed to facilitate interoperability and shared understanding among software testing tools, practitioners, and researchers.</dcterms:description>
         <preferredNamespacePrefix xml:lang="en">stc:</preferredNamespacePrefix>
         <preferredNamespaceURI>http://purl.org/stc/ontology#</preferredNamespaceURI>
         <rdfs:comment xml:lang="en">ISTQB test process mind map.pdf reflected, but 
